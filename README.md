@@ -1,3 +1,3 @@
 # 3DSpinningCube
 #### Screenshot ####
-![Screenshot](3dcube.jpg)
+![Screenshot](3dcube.JPG)
