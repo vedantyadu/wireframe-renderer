@@ -1,5 +1,5 @@
 # 3DSpinningCube
-A 3D wireframe renderer with support for rotation made using java.  
+A 3D wireframe renderer.
 👉 Run `Engine.java`  
 #### Demo ####
 ![Screenshot](cube.gif)
